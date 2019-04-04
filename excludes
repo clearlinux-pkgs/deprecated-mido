@@ -1,2 +1,6 @@
 # This file contains the output files that need %exclude. Full path
 # names, one per line.
+/usr/bin/mido-connect
+/usr/bin/mido-play
+/usr/bin/mido-ports
+/usr/bin/mido-serve
